@@ -1,0 +1,13 @@
+{
+  "name": "end-to-end_testing",
+  "version": "1.0.0",
+  "main": "test.js",
+  "author": "isin75 <jon.s124524@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.1"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^21.0.1"
+  }
+}
